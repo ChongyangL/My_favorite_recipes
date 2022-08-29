@@ -1,6 +1,0 @@
-git add filename
-git rm/mv
-git commit (-m)
-git log (check history)
-git checkout identifier
-git reset
